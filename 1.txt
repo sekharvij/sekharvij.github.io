@@ -1,0 +1,17 @@
+End-To-End Intercompany Workflow: Nuthalapadu directed Venkatesh and the team to present a complete intercompany cycle from ERP invoice generation through AP processing, settlement, cash application, reconciliation, dispute handling, and month-end close, with each agent action visibly demonstrated in the workspace.05:46
+Presented by Venkatesh Naik N
+3
+Workspace And User Experience Design: Nuthalapadu required the workflow to be represented as a clear UX journey in which AR and AP personas, ledger queues, notifications, files, and posting confirmations visibly change as each process step occurs.08:45
+Presented by Venkatesh Naik N
+Reconciliation Dashboard And Controls: The team reviewed the reconciliation dashboard and agreed that it should present large-scale ledger volumes, matching rates, open and cleared items, legal-entity coverage, and categorized mismatch types in a controller-oriented visual format.12:36
+Presented by Venkatesh Naik N
+2
+Variance Analysis And Dispute Ownership: Nuthalapadu corrected the proposed dispute logic by emphasizing that AR invoices are contractually determined and should not be shown as casually corrected by AR; the screens must explain the precise cause of each variance and route correction through AP while retaining review by both entities.18:38
+Presented by Venkatesh Naik N
+4
+Evidence-Based Resolution And Escalation: Venkatesh described a case workflow in which invoice owners receive private review links, submit evidence, and approve the same revised data before closure, while unresolved disputes are aged and escalated for leadership attention.24:39
+Presented by Venkatesh Naik N
+3
+Settlement Cash Application And Clearing: The team defined two settlement paths—normal payment or approved intercompany netting—and clarified that the walkthrough should show the resulting references and clearing status without executing actual bank or ERP transactions.25:31
+Presented by Venkatesh Naik N
+Month-End Accrual And Controlled Close: Nuthalapadu required the closing section to show how the agent identifies unrecorded intercompany costs, prepares an evidence-backed accrual recommendation, and routes it for finance approval when a variance cannot be processed before month-end.22:50
